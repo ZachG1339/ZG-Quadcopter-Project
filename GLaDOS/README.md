@@ -2,7 +2,7 @@
 
 Assembled by myself for cinematography and as a daily flyer
 
-Named after an all-seeing AI/robot from Valve's Portal universe, this quadcopter was designed as a first generation cinema quadcopter meant to carry a GoPro. 
+Named after an all-seeing AI/robot from Valve's Portal universe, this 5" quadcopter was designed as a first generation cinema quadcopter meant to carry a GoPro. 
 
 This quadcopter runs the betaflight firmware for easy customization and customer support. 
 
