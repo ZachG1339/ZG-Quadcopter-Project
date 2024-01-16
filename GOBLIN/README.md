@@ -1,5 +1,5 @@
 # GOBLIN
-Self assembled with monster motors
+Assembled myself with monster motors and excess I/O to accomodate peripherals
 
 This drone was designed to be far more powerful than GLaDOS with 2100 kV motors. It runs on an analog video system to provide lower latency so the pilot can react faster.
 
