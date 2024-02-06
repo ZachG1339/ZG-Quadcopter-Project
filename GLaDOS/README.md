@@ -2,6 +2,9 @@
 
 Assembled by myself for cinematography and as a daily flyer
 
+![IMG_1580](https://github.com/ZachG1339/ZG-Quadcopter-Project/assets/121523537/11dc25a6-d28e-4151-b5ad-ebb0a9b30fac)
+
+
 Named after an all-seeing AI/robot from Valve's Portal universe, this 5" quadcopter was designed as a first generation cinema quadcopter meant to carry a GoPro. 
 
 This quadcopter runs the betaflight firmware for easy customization and customer support. 
