@@ -12,3 +12,8 @@ Custom Off-the-Shelf components:
 # GP11M Mount
 
 This mount hijacks the top plate mount of the tinyhawk's frame to mount a GoPro 11 Mini. It is awaiting testing post 3D printing out of PETG
+
+This is the low profile version of the mount
+
+![image](https://github.com/ZachG1339/ZG-Quadcopter-Project/assets/121523537/31e8d35f-3410-441f-b4b7-45959f62ebbe)
+
