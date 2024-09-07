@@ -1,6 +1,6 @@
-#EXPO
+# EXPO
 
-<250 cinelog drone built explicity for flying for real estate, events, and advertisements
+<250g cinelog drone built explicity for flying for real estate, events, and advertisements
 
 Parts:
 - 71g - GEPRC Cinelog25 Frame
