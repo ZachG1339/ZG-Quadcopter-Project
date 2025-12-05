@@ -1,3 +1,6 @@
+<img width="1034" height="902" alt="image" src="https://github.com/user-attachments/assets/caa9d324-c4b9-4802-b17d-66e7c3024753" />
+
+
 # EXPO
 
 <250g cinelog drone built explicity for flying for real estate, events, and advertisements
